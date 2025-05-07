@@ -15,3 +15,13 @@ print(idade)
 nome = ("maria") 
 sobrenome = "silva"
 print(nome,sobrenome)
+
+#exemplo se A e maior q B
+a = 5
+b = 10
+
+if a > b:
+    print("A e MAIOR que B")
+else:
+    print("a e MENOR q B")
+
